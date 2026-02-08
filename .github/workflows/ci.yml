@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: Node.js CI - W2025 - COMP2156 Devops Lab Workflow
+=======
+name: Node.js CI
+>>>>>>> d0a796fb8dd1415c011e97d7da195660f55dd840
 
 on:
   push:
